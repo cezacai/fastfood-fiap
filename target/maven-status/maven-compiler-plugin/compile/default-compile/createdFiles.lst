@@ -1,0 +1,14 @@
+com/postech/fastfoodfiap/adapter/outbound/repository/SalvarClienteAdapter.class
+com/postech/fastfoodfiap/FastfoodFiapApplication.class
+com/postech/fastfoodfiap/application/ports/inbound/CriarClienteUseCasePort.class
+com/postech/fastfoodfiap/application/core/domain/Produto$Categoria.class
+com/postech/fastfoodfiap/adapter/outbound/repository/entity/ClienteEntity.class
+com/postech/fastfoodfiap/application/ports/outbound/CriarClienteAdapterPort.class
+com/postech/fastfoodfiap/application/core/domain/Produto.class
+com/postech/fastfoodfiap/adapter/inbound/controller/response/ClienteResponse.class
+com/postech/fastfoodfiap/application/core/usecase/CriarClienteUseCase.class
+com/postech/fastfoodfiap/adapter/inbound/controller/request/ClienteRequest.class
+com/postech/fastfoodfiap/adapter/outbound/repository/ClienteRepository.class
+com/postech/fastfoodfiap/adapter/inbound/controller/ClienteController.class
+com/postech/fastfoodfiap/application/core/domain/Cliente.class
+com/postech/fastfoodfiap/config/BeanConfig.class
