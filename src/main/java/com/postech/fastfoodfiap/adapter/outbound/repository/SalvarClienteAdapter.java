@@ -31,4 +31,9 @@ public class SalvarClienteAdapter implements CriarClienteAdapterPort {
 
         return cliente;
     }
+
+    @Override
+    public Boolean validarPorCpf(String cpf) {
+        return clienteRepository.existsByCpf(cpf);
+    }
 }

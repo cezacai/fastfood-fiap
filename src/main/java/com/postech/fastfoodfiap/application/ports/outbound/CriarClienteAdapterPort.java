@@ -4,4 +4,5 @@ import com.postech.fastfoodfiap.application.core.domain.Cliente;
 
 public interface CriarClienteAdapterPort {
     Cliente salvarCliente(Cliente cliente);
+    Boolean validarPorCpf(String cpf);
 }
